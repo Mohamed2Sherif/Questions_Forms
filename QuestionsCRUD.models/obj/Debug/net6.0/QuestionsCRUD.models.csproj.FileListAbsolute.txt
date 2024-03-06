@@ -1,0 +1,12 @@
+/home/mohamed/RiderProjects/QuestionsCRUD/QuestionsCRUD.models/bin/Debug/net6.0/QuestionsCRUD.models.deps.json
+/home/mohamed/RiderProjects/QuestionsCRUD/QuestionsCRUD.models/bin/Debug/net6.0/QuestionsCRUD.models.dll
+/home/mohamed/RiderProjects/QuestionsCRUD/QuestionsCRUD.models/bin/Debug/net6.0/QuestionsCRUD.models.pdb
+/home/mohamed/RiderProjects/QuestionsCRUD/QuestionsCRUD.models/obj/Debug/net6.0/QuestionsCRUD.models.csproj.AssemblyReference.cache
+/home/mohamed/RiderProjects/QuestionsCRUD/QuestionsCRUD.models/obj/Debug/net6.0/QuestionsCRUD.models.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohamed/RiderProjects/QuestionsCRUD/QuestionsCRUD.models/obj/Debug/net6.0/QuestionsCRUD.models.AssemblyInfoInputs.cache
+/home/mohamed/RiderProjects/QuestionsCRUD/QuestionsCRUD.models/obj/Debug/net6.0/QuestionsCRUD.models.AssemblyInfo.cs
+/home/mohamed/RiderProjects/QuestionsCRUD/QuestionsCRUD.models/obj/Debug/net6.0/QuestionsCRUD.models.csproj.CoreCompileInputs.cache
+/home/mohamed/RiderProjects/QuestionsCRUD/QuestionsCRUD.models/obj/Debug/net6.0/QuestionsCRUD.models.dll
+/home/mohamed/RiderProjects/QuestionsCRUD/QuestionsCRUD.models/obj/Debug/net6.0/refint/QuestionsCRUD.models.dll
+/home/mohamed/RiderProjects/QuestionsCRUD/QuestionsCRUD.models/obj/Debug/net6.0/QuestionsCRUD.models.pdb
+/home/mohamed/RiderProjects/QuestionsCRUD/QuestionsCRUD.models/obj/Debug/net6.0/ref/QuestionsCRUD.models.dll

@@ -1,0 +1,28 @@
+﻿version: '3'
+
+services:
+  quetionscrud:
+    image: questionscrud.api
+    container_name: questioncrud_container
+    ports :
+      - 80:80
+    build:
+      context: .
+      dockerfile: QuetionsCRUD.api/Dockerfile
+    depends_on:
+      - postgresql
+    command : /start
+  postgresql:
+    image: postgres:latest
+    container_name: postgres_with_ASP
+    ports : 
+      - "5432:5432"
+    environment:
+       POSTGRES_DB: questions
+       POSTGRES_USER: debug
+       POSTGRES_PASSWORD: debug
+    volumes:
+      - postgres_dataWithASP:/var/lib/postgresql/data
+      
+volumes : 
+   postgres_dataWithASP:

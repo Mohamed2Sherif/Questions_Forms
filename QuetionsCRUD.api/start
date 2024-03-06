@@ -1,0 +1,9 @@
+#!/bin/bash
+set -o errexit
+set -o pipefail
+set -o nounset
+
+dotnet tool install --global dotnet-ef
+dotnet ef migrations add InitialCreate --project QuetionsCRUD.api
+dotnet ef database update --project QuetionsCRUD.api
+exec dotnet QuetionsCRUD.api.dll
